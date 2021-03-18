@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report-template.aux
+The style file: acl.bst
+Database file #1: sample.bib
+Warning--empty publisher in WikiMisspell
+You've used 4 entries,
+            2490 wiz_defined-function locations,
+            584 strings with 5208 characters,
+and the built_in function-call counts, 1547 in all, are:
+= -- 157
+> -- 45
+< -- 1
++ -- 14
+- -- 13
+* -- 103
+:= -- 254
+add.period$ -- 18
+call.type$ -- 4
+change.case$ -- 20
+chr.to.int$ -- 4
+cite$ -- 5
+duplicate$ -- 78
+empty$ -- 134
+format.name$ -- 18
+if$ -- 334
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 14
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 25
+quote$ -- 0
+skip$ -- 54
+stack$ -- 0
+substring$ -- 64
+swap$ -- 17
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 1
+while$ -- 12
+width$ -- 5
+write$ -- 61
+(There was 1 warning)
